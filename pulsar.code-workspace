@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "./app/provider/."
+		},
+		{
+			"path": "./app/consumer/."
+		},
+		{
+			"path": "./app/crawler/."
+		},
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
